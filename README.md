@@ -9,7 +9,9 @@ Each folder in this repo represents a separate Power BI project, with datasets, 
 Projects Included
 
 Data Professional Survey Dashboard
-Overview: An interactive dashboard analyzing survey data from data professionals across industries. It highlights demographics, tools used, salary ranges, and career satisfaction.
+
+Overview:
+An interactive dashboard analyzing survey data from data professionals across industries. It highlights demographics, tools used, salary ranges, and career satisfaction.
 
 Dataset: Survey dataset sourced from Kaggle
 
